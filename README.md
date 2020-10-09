@@ -1,2 +1,28 @@
-# group-project-1
-cleaned repository 
+# project-week-1
+An analysis of Australian dining habits according to data from Zomato.
+
+Team Members: Mickey Sandhu, Brad Smith and Nelson Paulo Balino
+
+Proposal: This project analyses dining habits in three Australian cities (Melbourne, Sydney, and Perth). We will focus on two types of analysis: popularity and correlation. In particular the following questions will be posited;
+
+Most popular restaurants in each city
+Most popular cuisines in each city
+Correlation between dining out and public holidays
+Correlation between restaurants and increased patronage during the COVID-19 pandemic
+Data Sources: Zomato API https://developers.zomato.com/documentation#!/ Google Maps API https://developers.google.com/maps/documentation Australian Public Holidays Dates https://data.gov.au/data/dataset/b1bc6077-dadd-4f61-9f8c-002ab2cdff10
+
+Task Breakdown:
+
+Each team member will create their own Zomato API key and pull data
+We will clean the dataset to ensure data is viable
+Use Matplotlib to create visualizations (plots and PNG files)
+Create a write-up summarising the findings
+Prepare a 10 minute presentation that covers results
+Code:
+
+pulldata.ipynb : pulls data from the zomato
+MultiCity_DataProcess.ipynb : contains the codes for data processing obtained from pulldata.ipynb
+Relevant files:
+
+multi_restaurant_data.csv : output of pulldata.ipynb containting list of restaurants
+Restaurant_ratingstimestamp_data.csv : output of pulldata.ipynb containting ratings and timestamps of each restaurants

@@ -49,3 +49,6 @@ Task Breakdown:
 - We will create CSV files for Gourmet Traveller and Good Food Guide Results
 - Create a write-up summarising the findings
 - Prepare a 10 minute presentation that covers results 
+
+To View:
+Begin with Zomato API Challenge and then follow by opening Map. 

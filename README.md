@@ -52,3 +52,9 @@ Task Breakdown:
 
 To View:
 Begin with Zomato API Challenge and then follow by opening Map. 
+
+
+Files and Details:
+- Root\Zomato_API_Challenge.ipynb : Final Merged file
+- Images Folder : Contains relevant images for the presentation
+- Cuisine Folder: Contains files to pull and process data from Zomato
